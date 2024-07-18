@@ -26,7 +26,7 @@ Add "MirrorCloneToggle/Enabled" to your menu as a toggle, to toggle it manually 
 
 <h2>Performance stats</h2>
 - 1 local bool parameter (0 synced cost)<br>
-- 0 materials (1 texture that doesn't get used)
+- 0 material slots (1 texture that doesn't get used in any material)
 
 <h2>Hierarchy layout</h2>
 MirrorCloneToggle<br>
