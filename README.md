@@ -1,5 +1,10 @@
 # MirrorCloneToggle
  Forces the mirror clone to be on when requested
+<br><br>
+<h3 align="center">
+ 
+  [Download latest version](https://github.com/fkrisi11/MirrorCloneToggle/releases/latest)
+</h3>
 
 <h2>How it works</h2>
 There is a camera in the system, which when enabled, always renders the "MirrorReflection" layer to a 1x1 resolution render texture.<br>
